@@ -6,17 +6,17 @@ body{
 button{
     color:grey;
     background-color:rgb(85, 54, 174);
-
+                   border:1px solid white;   font-family:courier;
 
 }
 
 h1{
-    color: rgb(85, 114, 121)  ;
 
+            border:2px solid purple; background-color: rgp(200,40,56);
 
 }
 
 h2{
-    color:grenn;
-    border: 2px blue;
-}
+   border:3px solid SlateBlue; font-family:courier; font-size:120%;   text-align:center;
+
+}                       text-align:center;
