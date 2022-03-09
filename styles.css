@@ -7,7 +7,7 @@ body{
 
 button{
     color:grey;
-    background-color:light blue;
+    background-color:light gold;
                    border:2px solid purple;   font-family:courier;
 
 }
@@ -31,7 +31,7 @@ a{
    background-color:light grey;
  padding: 30px;
 
-   border:2px solid gold;
+   border:3px solid gold;
 
 
 }
