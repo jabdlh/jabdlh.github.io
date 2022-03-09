@@ -1,8 +1,8 @@
 body{
-    padding: 30px;
+    
 
-    background-color:  grey;
-     border:1px solid blue;
+    background-color:  ;
+     border:1px solid blue; padding: 30px;
 }
 
 button{
@@ -13,23 +13,23 @@ button{
 }
 
 h1{
- padding: 30px;
+ 
 
  
             border:2px solid purple; background-color:grey;
-
+padding: 30px;
 }
 
 h2{
-    padding: 30px;
+    
    border:3px solid SlateBlue; font-family:courier; font-size:120%;   text-align:center;
-
+padding: 30px;
 }                     
 a{
-    padding: 30px;
+   
   font-size:120%;
    background-color:light grey;
-
+ padding: 30px;
 
    border:2px solid gold;
 
