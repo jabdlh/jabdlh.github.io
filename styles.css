@@ -1,6 +1,7 @@
 body{
-    background-color: powderblue;
-
+   
+    background-color: light red;
+     border:8px blue;
 }
 
 button{
@@ -12,7 +13,7 @@ button{
 
 h1{
 
-            border:2px solid purple; background-color: rgp(200,40,56);
+            border:2px solid purple; background-color: rgp(20,123,56);
 
 }
 
