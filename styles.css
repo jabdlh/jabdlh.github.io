@@ -6,7 +6,7 @@ body{
 }
 
 button { id="button_on";
-    color:grey;
+   
     background-color:blue;
                    border:2px solid purple;   font-family:courier;
 
@@ -18,8 +18,8 @@ button { id="button_on";
 
 
 button{ id="button_off";
-    color:grey;
-    background-color: yellow ;
+  
+    background-color:yellow;
                    border:2px solid black;   font-family:courier;
 
 }
