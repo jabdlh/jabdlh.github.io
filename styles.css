@@ -5,10 +5,11 @@ body{
      border:1px solid blue; padding: 30px;
 }
 
-button { id="button_on";
+button:active { id="button_on";
    
-    background-color:blue;
-                   border:2px solid purple;   font-family:courier;
+    color: yellow;
+  background-color: transparent;
+  text-decoration: underline;  font-family:courier;
 margin:20;
 }
 
