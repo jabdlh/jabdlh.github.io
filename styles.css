@@ -56,3 +56,9 @@ border:20px solid green;
     margin:20;
 }
 
+a:active { 
+    
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
