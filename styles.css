@@ -9,7 +9,7 @@ button { id="button_on";
    
     background-color:blue;
                    border:2px solid purple;   font-family:courier;
-
+margin:20;
 }
 
 
@@ -21,7 +21,7 @@ button{ id="button_off";
   
     background-color:yellow;
                    border:2px solid black;   font-family:courier;
-
+margin:20;
 }
 
 
@@ -31,12 +31,14 @@ h1{
  
             border:2px solid purple; background-color:grey;
 padding: 30px;
+    margin:20;
 }
 
 h2{
     
    border:3px solid SlateBlue; font-family:courier; font-size:120%;   text-align:center;
 padding: 30px;
+    margin:20;
 }                     
 
 
@@ -51,5 +53,6 @@ padding: 30px;
 border:20px solid green;
     
     width:100px;height:100px;
+    margin:20;
 }
 
