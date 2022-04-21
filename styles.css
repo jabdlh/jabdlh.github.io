@@ -46,11 +46,19 @@ padding: 30px;
 }
 
 img{
+    
 padding: 30px;
 border:20px solid green;
     
     width:100px;height:100px;
     margin:20;
+}
+
+img{
+    id="gtasafat";
+    border:20px solid purple;
+    padding: 30px;
+    
 }
 
 a:active { 
