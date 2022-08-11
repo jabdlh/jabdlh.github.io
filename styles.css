@@ -7,7 +7,7 @@ body{
 
 button {
 
-    color: purple;
+    color: gold;
   background-color: transparency;
   text-decoration: underline;  font-family:courier;
 margin:20;
@@ -54,11 +54,5 @@ border:20px solid blue;
     margin:20;
 }
 
-img{
-    id="Ah_shit;"
-     style= "width:400px; height:600;"
-
-
-}
 
 
