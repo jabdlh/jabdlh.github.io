@@ -5,10 +5,10 @@ body{
      border:1px solid blue; padding: 30px;
 }
 
-button:active { id="button_on";
+button {
 
     color: yellow;
-  background-color: transparent;
+  background-color: gold;
   text-decoration: underline;  font-family:courier;
 margin:20;
 }
@@ -61,9 +61,4 @@ img{
 
 }
 
-a:active {
 
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
