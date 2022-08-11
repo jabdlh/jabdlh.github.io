@@ -8,7 +8,7 @@ body{
 button {
 
     color: purple;
-  background-color: gold;
+  background-color: transparent;
   text-decoration: underline;  font-family:courier;
 margin:20;
 }
