@@ -2,13 +2,13 @@ body{
 
 
     background-color:  ;
-     border:1px solid gold; padding: 30px;
+     border:1px solid green; padding: 30px;
 }
 
 button {
 
 
- color: light;
+ color: gold ;
    background-color: transparency;
      text-decoration: underline;  font-family:courier;
        margin:20;
